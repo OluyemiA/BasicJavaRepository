@@ -1,0 +1,2 @@
+# BasicJavaRepository
+For basic codes
